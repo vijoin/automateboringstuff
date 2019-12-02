@@ -1,4 +1,4 @@
-import validate_phone_number.is_phone_number as ipn
+import is_phone_number as ipn
 
 if __name__ == "__main__":
 	mock_input = 'My number is 415-555-4242'
